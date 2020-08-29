@@ -1,0 +1,19 @@
+
+testing: true 
+
+# Site Settings
+# Course Info
+title: "Etale cohomology reading seminar"
+email: daniel.krashen@rutgers.edu
+tagline: "Ô la nostalgie à retrouver de vieilles cartes postales. Où le ciel est toujours bleu l'arbre toujours vert la mer étale..."
+description: ""
+instructor: "Danny Krashen"
+instructor_email: "&#x64;&#x61;&#x6e;&#x69;&#x65;&#x6c;&period;&#x6b;&#x72;&#x61;&#x73;&#x68;&#x65;&#x6e;&plus;&#x61;&#x70;&#x70;&#x61;&#x6c;&#x67;&commat;&#x67;&#x6d;&#x61;&#x69;&#x6c;&period;&#x63;&#x6f;&#x6d;"
+office: "Hill 220 (but not relevant)"
+lecture-schedule: "TBD"
+instructor_url: "http://dkrashen.org"
+
+
+
+baseurl: "/etale"
+analytics: "true"
